@@ -39,4 +39,12 @@ Step3_Get_LinksForAll.py -- Getting all the connection links using NLP technique
 Step4_Make_Main_Graph.py -- Making a graph of all the connections. Visualizing the data most clearly.   
 Step5_Get_MostInfluencedEntity.py -- Getting the most influenced entity among all.  
 Step6_GetArticleFrom2Entities.py -- Getting Common connections among two entities. || Also getting article where two entities showed up in the same article.    
+		
+Based on Research papers on : -
 
+Network Graph Visualization (from US News).
+
+Entity Recognition.			
+
+Connection Building (Based on News Article).		           						
+		
