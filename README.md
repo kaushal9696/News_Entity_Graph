@@ -31,7 +31,7 @@ Language and Interpreter Information: -
 Description: -
 Based on each python step file: - 
 
-#--Skip step 1 and step 2 because I already gave my news database. you can use yours too. or you can use step 1 and step 2 if you have your API.--#
+#--Skip step 1 and step 2 because I already gave my news database. you can use yours too. or you can use step 1 and step 2 if you have your API.--#		
 Step1_Get_ArticlestoTXT.py -- Getting news articles and titles.                             
 Step2_ProcessJSONtoCSV.py -- Converting big JSON file into a nice CSV file with only necessary fields.  
 Step3_Get_LinksForAll.py -- Getting all the connection links using NLP techniques and data processing.  
