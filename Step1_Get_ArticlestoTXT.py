@@ -1,7 +1,7 @@
 import json
 from newsapi import NewsApiClient
 
-News_API = NewsApiClient(api_key='c1c336393c7e462688300d3dff04c521')
+News_API = NewsApiClient(api_key='YOUR_API_KEY')
 all_articles = News_API.get_everything(q='Covid',
                                       language='en',
                                       page=1,
