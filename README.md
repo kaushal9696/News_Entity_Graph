@@ -1,4 +1,4 @@
-# [Machine Learning] Object Detection Model | K-means Clustering
+# [Big Data Processing] Connection Graph from US News Articles
 This is a python project where it builds the connection graph of each popular entity based on US News
 
 Goals: -        
